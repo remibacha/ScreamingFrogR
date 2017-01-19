@@ -1,0 +1,2 @@
+# ScreamingFrogR
+SEO tasks automation
